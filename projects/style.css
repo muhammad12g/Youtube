@@ -78,5 +78,5 @@ transform: scale(.3);
     margin-top: 150px;
 }
 header{
-    /* z-index: 20; */
+    z-index: 20;
 }
